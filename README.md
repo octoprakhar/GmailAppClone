@@ -24,3 +24,8 @@ This will be a mail app, that will work similar to Gmail of Google.
 5. Firebase Authentication
 6. Firebase Cloud Messaging
 7. MVVM architechture
+
+**Versions **->
+1.** GmailAppClone 1.0.0 ** ->
+  It includes persistant database, some basic UI and UI related logic.
+  Tech stack used-> Kotlin, Jetpack Compose, RoomDB, MVVM architechture.
