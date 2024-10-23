@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GmailAppClone</string>
+    <string name="fireStoreError1">Remote token not found for user</string>
+    <string name="fireStoreError2">No user found with username</string>
+    <string name="fireStoreError3">Error fetching remote token for username</string>
+</resources>
